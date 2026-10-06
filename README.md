@@ -1,6 +1,10 @@
 # JoSIM
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](src/)
+[![Verilog: IEEE 1364-2001](https://img.shields.io/badge/HDL-Verilog%20%2F%20SystemVerilog-orange.svg)](hdl/)
+[![JoSIM: Verified](https://img.shields.io/badge/JoSIM-SPICE%20Verified-blueviolet.svg)](netlists/)
+[![Verification: Triple--Engine](https://img.shields.io/badge/Verification-Triple--Engine-brightgreen.svg)](sim/test_core.py)
 
 A reproducible, high-fidelity **Triple-Engine Implementation** and formal timing verification environment for *JoSIM*.
 
@@ -24,17 +28,7 @@ High-speed superconducting circuit design and reproducible simulation framework 
 
 ## 📈 Visual Artifacts & Waveforms
 
-### 1. License: MIT
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-### 2. "Buy Me A Coffee"
-
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-
-### 3. Figure 3
-
-![Figure 3](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)
+*Validation plots generated automatically during regression testing under `docs/figures/`.*
 
 ---
 
